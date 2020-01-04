@@ -41,4 +41,12 @@
   Data parametresi Dictionary’lerden, serilerden veya listelerden oluşan bir dictionary, olabilir. 2  boyutlu numpy dizisi ya da başka bir DataFrame olabilir.
   
   
+  ##Pandas ile veri seçme 
+  DataFrame nesneleri satır ve sütun adlarına sahip olduğu için Numpy’ dan farklı olarak bu satır ve sütun adlarıyla istediğimiz veriyi seçebiliriz. Seçme işlemleri için “.loc[]” kullanılabilir. 
+  Genel kullanımı aşağıdaki gibidir.
+  ```
+  df.loc[row, column]
+  ```
+  
+  
  <a href="http://fvcproductions.com"><img src="https://pandas.pydata.org/_static/pandas_logo.png" title="FVCproductions" alt="FVCproductions"></a>
