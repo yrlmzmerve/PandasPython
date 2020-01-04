@@ -20,8 +20,8 @@
  ```
  
   1) **Seriler**
-  Tek boyutlu Numpy dizilerine çok benzerler.
   
+  Tek boyutlu Numpy dizilerine çok benzerler.
   Serilerin genel kullanımı aşağıdaki gibidir. 
   ```
   my_series = pd.Series(data,index)
@@ -30,6 +30,7 @@
   Numpy dizisinden farklı olarak serilerde index sütunu da bulunur.
   
   2) **DataFrame**
+  
   DataFrame’ler farklı tipteki sütunlara ve satırlara sahip bir SQL tablosu olarak düşünülebilinir.   
   DataFrame’ler veriyi daha kolay işleyebilmemizi sağlar.
   
