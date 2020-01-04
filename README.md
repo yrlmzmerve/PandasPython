@@ -19,7 +19,7 @@
   - DataFrames
  ```
  
-  1) **Seriler**
+  **1) Seriler**
   
   Tek boyutlu Numpy dizilerine çok benzerler.
   Serilerin genel kullanımı aşağıdaki gibidir. 
@@ -29,7 +29,7 @@
   Data parametresi sabit bir değer, liste, Numpy dizisi ya da dictionary olabilir.
   Numpy dizisinden farklı olarak serilerde index sütunu da bulunur.
   
-  2) **DataFrame**
+  **2) DataFrame**
   
   DataFrame’ler farklı tipteki sütunlara ve satırlara sahip bir SQL tablosu olarak düşünülebilinir.   
   DataFrame’ler veriyi daha kolay işleyebilmemizi sağlar.
